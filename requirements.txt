@@ -1,0 +1,14 @@
+fastapi
+pydantic
+uvicorn
+tensorflow
+
+# tambahkan library lain sesuai kebutuhan proyek Anda
+# Seperti:
+# pandas
+# numpy
+# torch
+# transformers
+# nltk
+# sastrawi
+# scikit-learn
